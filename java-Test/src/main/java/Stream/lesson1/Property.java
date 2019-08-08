@@ -1,4 +1,4 @@
-package Stream;
+package Stream.lesson1;
 
 import lombok.Data;
 

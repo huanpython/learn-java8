@@ -1,4 +1,4 @@
-package Stream;
+package Stream.lesson1;
 
 import java.util.*;
 
@@ -20,6 +20,6 @@ public class streamTest02 {
                 .count();
 
 
-      
+
     }
 }
