@@ -21,6 +21,7 @@
         <module>java8-concurrent</module>
         <module>java8-growing</module>
         <module>java8-completablefuture</module>
+        <module>java-Test</module>
     </modules>
     
     <dependencies>
