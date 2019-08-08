@@ -1,3 +1,5 @@
+package lambda;
+
 /**
  * @author huanfuan
  * @version 1.0
